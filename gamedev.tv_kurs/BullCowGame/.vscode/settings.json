@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"C:/Users/Jovan/Desktop/Unreal_Engine_Projects/BullCowGame-starter-kit/.vs": true,
+		"C:/Users/Jovan/Desktop/Unreal_Engine_Projects/BullCowGame-starter-kit/.vscode": true,
+		"C:/Users/Jovan/Desktop/Unreal_Engine_Projects/BullCowGame-starter-kit/Content": true,
+		"C:/Users/Jovan/Desktop/Unreal_Engine_Projects/BullCowGame-starter-kit/DerivedDataCache": true,
+		"C:/Users/Jovan/Desktop/Unreal_Engine_Projects/BullCowGame-starter-kit/Intermediate": true,
+		"C:/Users/Jovan/Desktop/Unreal_Engine_Projects/BullCowGame-starter-kit/Saved": true
+	}
+}
