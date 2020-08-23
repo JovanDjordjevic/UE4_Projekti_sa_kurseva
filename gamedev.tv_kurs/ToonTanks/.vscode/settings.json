@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"C:/Users/Jovan/Desktop/Unreal_Engine_Projects/ToonTanks/.vscode": true,
+		"C:/Users/Jovan/Desktop/Unreal_Engine_Projects/ToonTanks/Content": true,
+		"C:/Users/Jovan/Desktop/Unreal_Engine_Projects/ToonTanks/DerivedDataCache": true,
+		"C:/Users/Jovan/Desktop/Unreal_Engine_Projects/ToonTanks/Intermediate": true,
+		"C:/Users/Jovan/Desktop/Unreal_Engine_Projects/ToonTanks/Saved": true
+	}
+}
