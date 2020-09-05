@@ -9,3 +9,4 @@ Projektima fale Binaries, Saved, Intermediate, DeriverDataCache i Saved folderi 
 * BullCowGame
 * BuildingEscape
 * ToonTanks
+* SimpleShooter
